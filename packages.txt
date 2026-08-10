@@ -2,3 +2,7 @@ build-essential
 python3-dev
 pkg-config
 cmake
+gfortran
+libatlas-base-dev
+libblas-dev
+liblapack-dev
